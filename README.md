@@ -11,7 +11,7 @@ This is a Bookstore Management platform built using ASP.NET Core MVC architectur
 - **Validation**: Form validation for book creation and editing.
 
 ## Screenshot
-![Bookstore Screenshot](book-store.png)
+![Bookstore Screenshot](book-store.PNG)
 
 ## Prerequisites
 
