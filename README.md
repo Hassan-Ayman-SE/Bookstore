@@ -10,6 +10,9 @@ This is a Bookstore Management platform built using ASP.NET Core MVC architectur
 - **Search**: Filter books by title or author on the index page.
 - **Validation**: Form validation for book creation and editing.
 
+## Screenshot
+![Bookstore Screenshot](book-store.png)
+
 ## Prerequisites
 
 Before you can run the project, ensure you have the following installed:
